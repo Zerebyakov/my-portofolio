@@ -142,7 +142,7 @@ function Home({ onOpen, menuOpen, onToggleMenu }) {
       </section>
 
       <section id="contact" className="contact-section">
-        <div className="section-wrap"><p className="eyebrow">05 / LET’S CONNECT</p><div className="contact-main"><h2>Open to opportunities<br />and interesting projects<span className="accent">.</span></h2><p>Feel free to reach out if you have a question, a project idea, or just want to say hi.</p><a className="button button-light" href="mailto:YOUR_EMAIL@example.com">Email me <Arrow diagonal /></a></div><div className="contact-links"><a href="https://github.com/Zerebyakov" target="_blank" rel="noreferrer">GitHub <Arrow diagonal /></a><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn <Arrow diagonal /></a><span>Resume link to be added</span></div></div>
+        <div className="section-wrap"><p className="eyebrow">05 / LET’S CONNECT</p><div className="contact-main"><h2>Open to opportunities<br />and interesting projects<span className="accent">.</span></h2><p>Feel free to reach out if you have a question, a project idea, or just want to say hi.</p><a className="button button-light" href="mailto:zulfanariq@gmail.com">Email me <Arrow diagonal /></a></div><div className="contact-links"><a href="https://github.com/Zerebyakov" target="_blank" rel="noreferrer">GitHub <Arrow diagonal /></a><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn <Arrow diagonal /></a><span>Resume link to be added</span></div></div>
       </section>
     </main>
     <footer className="site-footer page-wrap"><a className="wordmark" href="#top">Z<span>.</span></a><p>Designed with intent. Built with React.</p><span>© 2026</span></footer>
