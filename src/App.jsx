@@ -109,7 +109,7 @@ function Home({ onOpen, menuOpen, onToggleMenu }) {
         </div>
         <aside className="hero-aside" aria-label="Portfolio overview">
           <div className="hero-index">PORTFOLIO<br />2026 — 2027</div>
-          <div className="hero-photo"><img src="/images/hero-editorial.png" alt="Developer looking over a misty landscape" /><span className="blue-orb" /><span className="hero-scribble">Problem<br />Solve<br />Build<br />Improve</span><span className="origin-note">Based in<br />Indonesia</span></div>
+          <div className="hero-photo"><img src="/images/20220919_184107_296.jpg" alt="Developer looking over a misty landscape" /><span className="blue-orb" /><span className="hero-scribble">Problem<br />Solve<br />Build<br />Improve</span><span className="origin-note">Based in<br />Indonesia</span></div>
           <p>Building at the intersection of useful products and clear interfaces.</p>
         </aside>
         <div className="hero-bottom"><span>SELECTED WORK / 2024—2026</span><a href="#work">SCROLL TO EXPLORE ↓</a></div>
@@ -133,7 +133,7 @@ function Home({ onOpen, menuOpen, onToggleMenu }) {
       <section id="about" className="about-section section-wrap motion-reveal">
         <div className="about-label"><p className="eyebrow">03 / A LITTLE ABOUT ME</p><span className="about-mark">Z<span>.</span></span></div>
         <div className="about-copy"><h2>Curious about technology, focused on real impact<span className="accent">.</span></h2><p>I’m a front-end developer with a strong interest in building clean, accessible, and user-friendly web applications. I enjoy learning new things, solving problems, and turning ideas into real products.</p><p>I value clear communication, practical problem-solving, and continuous learning. I’m looking for opportunities to contribute to a development team while continuing to strengthen my front-end skills.</p><a className="text-link" href="https://github.com/Zerebyakov" target="_blank" rel="noreferrer">More on GitHub <Arrow diagonal /></a></div>
-        <div className="about-photo"><img src="/images/hero-editorial.png" alt="" /><span>A good product<br />starts with a clear<br />understanding of<br />the problem.</span></div>
+        <div className="about-photo"><img src="/images/20220919_184107_296.jpg" alt="" /><span>A good product<br />starts with a clear<br />understanding of<br />the problem.</span></div>
       </section>
 
       <section className="toolkit-section section-wrap motion-reveal">
